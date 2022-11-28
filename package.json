@@ -23,7 +23,7 @@
     "@actions/core": "^1.6.0",
     "@actions/github": "^5.0.0",
     "@actions/glob": "^0.2.0",
-    "@actions/io": "^1.1.1",
+    "@actions/io": "^1.1.2",
     "@rayzr/markdown2confluence": "^2.0.8",
     "axios": "^0.24.0",
     "axios-curlirize": "~=1.3.7",
